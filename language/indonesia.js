@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List menu : B O T  - M D*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
